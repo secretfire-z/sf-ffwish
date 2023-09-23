@@ -1,0 +1,13 @@
+ # Node.js
+node_modules/
+npm-debug.log
+
+# Google Apps Script Specific
+.clasp.json
+.env
+
+# IDE-specific settings
+.DS_Store
+.idea/
+*.swp
+
